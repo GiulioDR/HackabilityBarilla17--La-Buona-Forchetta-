@@ -29,7 +29,7 @@ jacket pocket.
 * Luca Ciccarese.
 
 
-![Team](images/'team.jpg')
+![Team](images/team.jpg)
 
 The Barilla CEO (center) likes La Buona Forchetta!
 
