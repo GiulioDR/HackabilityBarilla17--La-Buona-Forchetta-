@@ -29,7 +29,8 @@ jacket pocket.
 * Luca Ciccarese.
 
 
-![Team](images/'Team with BarillaCEO.jpg')
+![Team](images/'team.jpg')
+
 The Barilla CEO (center) likes La Buona Forchetta!
 
 ## Need we faced
@@ -102,9 +103,7 @@ We want to give patients with Parkinson's disease the right to request a sample 
 Follow us on: https://la-buona-forchetta.blogspot.it/
 
 ## Presentation
-You can find and download the presentation in pdf of the project [here]('https://github.com/GiulioDR/HackabilityBarilla17--
-
-La-Buona-Forchetta-/blob/master/presentation/Presentation.pdf').
+You can find and download the presentation in pdf of the project [here](presentation/Presentation.pdf).
 
 ## License
 All the material is available under the terms of the CC BY-SA 4.0 license (Creative Commons Attribution-ShareAlike 4.0 
