@@ -29,7 +29,8 @@ jacket pocket.
 * Luca Ciccarese.
 
 
-![Team](images/Team with BarillaCEO.jpg)
+![Team](images/'Team with BarillaCEO.jpg')
+The Barilla CEO (center) likes La Buona Forchetta!
 
 ## Need we faced
 Parkinson's is a chronic neurodegenerative disease that most commonly occurs in the elderly over the age of 50. The 
@@ -94,22 +95,18 @@ Look the SPOT Video at: https://youtu.be/gAKzE_MczW0
 
 ## Website
 The prototype is accompanied by a portal whose aim is to keep the project alive and make it self-sufficient. 
-We want to give patients with Parkinson's disease the right to request a sample or any modifications and customizations; to 
-
-makers and Fablabs to download the files, make these changes and create the prototype to provide it for free.
+We want to give patients with Parkinson's disease the right to request a sample or any modifications and customizations; to makers and Fablabs to download the files, make these changes and create the prototype to provide it for free.
 
 ![](website/website.png)
 
 Follow us on: https://la-buona-forchetta.blogspot.it/
 
 ## Presentation
-You can find and download the presentation in pdf of the project [here](https://github.com/GiulioDR/HackabilityBarilla17--
+You can find and download the presentation in pdf of the project [here]('https://github.com/GiulioDR/HackabilityBarilla17--
 
-La-Buona-Forchetta-/blob/master/presentation/Presentation.pdf).
+La-Buona-Forchetta-/blob/master/presentation/Presentation.pdf').
 
 ## License
 All the material is available under the terms of the CC BY-SA 4.0 license (Creative Commons Attribution-ShareAlike 4.0 
 
 International License).
-
-##Thank you!
