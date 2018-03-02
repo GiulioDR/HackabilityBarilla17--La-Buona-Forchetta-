@@ -1,6 +1,5 @@
 Team and Contributors:
 
-
 1. Giulio De Riccardis;
 
 2. Domenico Barbarito;
