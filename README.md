@@ -71,7 +71,9 @@ The circuit is composed by:
 * 1x ON/OFF button
 * 4x LR44 batteries
 
-![Device](images/electronics.jpg)
+![Device-3d](images/3Dprinting.jpg)
+![Device-lasercut](images/woodforks.jpg)
+![Device-electronics](images/electronics.jpg)
 
 ### The Final Test
 Spaghetti with garlic, oil, chilli and tomatoes Recipe.
