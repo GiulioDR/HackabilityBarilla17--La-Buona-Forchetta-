@@ -83,7 +83,7 @@ The circuit is composed by:
 ### The Final Test
 Spaghetti with garlic, oil, chilli and tomatoes Recipe.
 
-![Test](test/20180219_005550.jpg)
+![Test](test/spaghetti.jpg)
 
 Ingredients:
 1. Spaghetti strictly Barilla (100g);
