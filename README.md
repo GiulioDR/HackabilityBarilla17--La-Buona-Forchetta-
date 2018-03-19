@@ -105,11 +105,19 @@ Look the SPOT Video at: https://youtu.be/gAKzE_MczW0
 
 ## Website
 The prototype is accompanied by a portal whose aim is to keep the project alive and make it self-sufficient. 
-We want to give patients with Parkinson's disease the right to request a sample or any modifications and customizations; to makers and Fablabs to download the files, make these changes and create the prototype to provide it for free.
+We want to give patients with Parkinson's disease besides Domenico the right to request a sample or any modifications and customizations; to makers and Fablabs to download the files, make these changes and create the prototype to provide it for free.
 
 ![](website/website.png)
 
-Follow us on: https://la-buona-forchetta.blogspot.it/
+Follow us on:
+
+Website https://la-buona-forchetta.blogspot.it/
+
+Facebook https://www.facebook.com/buonaforchetta.info/
+
+Instagram https://www.instagram.com/labuonaforchetta_official
+
+
 
 ## Presentation
 You can find and download the presentation in pdf of the project [here](presentation/Presentation.pdf).
