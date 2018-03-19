@@ -25,8 +25,8 @@ jacket pocket.
 * Giuliano De Pascali;
 * Ilaria Pellegrino;
 * Cristiano Maci;
-* Alessio Pecoraro;
-* Luca Ciccarese.
+* Luca Ciccarese;
+* Alessio Pecoraro.
 
 
 ![Team](team/team.jpg)
@@ -34,6 +34,11 @@ jacket pocket.
 The Barilla CEO (center) likes La Buona Forchetta!
 
 ## Need we faced
+
+Domenico, a member of the team, suffers from Parkinson's disease. He asked us for a miniaturize device to make him taste 
+
+a plate of spaghetti! 
+
 Parkinson's is a chronic neurodegenerative disease that most commonly occurs in the elderly over the age of 50. The 
 
 characteristic symptoms of the disease - tremor, rigidity, bradykinesia and postural instability - are due to the death of 
@@ -45,9 +50,9 @@ and disabling symptoms of patients suffering from the disease is the difficulty 
 between the fingers while eating a plate of spaghetti.
 
 ## How we dealt with it
-After a first confrontation with Domenico, a member of the team and suffering from Parkinson's disease, we performed a 
+After a first confrontation with Domenico we performed a patent and market analysis, discovering the 
 
-patent and market analysis, discovering the great limits of the devices on the market: 
+great limits of the devices on the market: 
 
 * aesthetically uncomfortable because they are too conspicuous; 
 * with a single non-disposable metal tip that entails hygiene problems when used outside the home; 
