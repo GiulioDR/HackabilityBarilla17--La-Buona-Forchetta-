@@ -80,7 +80,7 @@ The circuit is composed by:
 ![Device-lasercut](images/woodforks.jpg)
 ![Device-electronics](images/electronics.jpg)
 
-### The Final Test
+## Spaghetti Recipe
 Spaghetti with garlic, oil, chilli and tomatoes Recipe.
 
 ![Test](test/spaghetti.jpg)
@@ -95,8 +95,15 @@ Recipe:
 2. Cook the Barilla spaghetti al dente and finish cooking over high heat in the pan with the sauce;
 3. Enjoy the dish by helping you with La Buona Forchetta!
 
-Spaghetti Test Video at: https://youtu.be/GTm76VhDWDo
+Spaghetti Recipe Video at: https://youtu.be/GTm76VhDWDo
 
+## Test with Domenico
+Domenico tests La Buona Forchetta, eating spaghetti with tomato sauce!
+
+![Test](test/IMG-20180319-WA0023.jpg)
+
+
+Spaghetti Test Video with Domenico at: https://youtu.be/BDgRXz7n8F4
 
 ## SPOT 
 ![](spot/14.jpg)
