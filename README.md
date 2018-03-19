@@ -127,7 +127,7 @@ Instagram https://www.instagram.com/labuonaforchetta_official
 
 
 ## Presentation
-You can find and download the presentation in pdf of the project [here](presentation/Presentation.pdf).
+You can find and download the presentation in pdf of the project [here](presentation/Presentation.pdf). 
 
 ## License
 All the material is available under the terms of the CC BY-SA 4.0 license (Creative Commons Attribution-ShareAlike 4.0 
