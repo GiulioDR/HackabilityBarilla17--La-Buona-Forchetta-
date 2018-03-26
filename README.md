@@ -125,6 +125,14 @@ Facebook https://www.facebook.com/buonaforchetta.info/
 Instagram https://www.instagram.com/labuonaforchetta_official
 
 
+## Future Developments
+The batteries used in the prototype last for a couple of meals. They have been chosen considering both functionality and miniaturizations. 
+Future versions include the implementation of batteries with a bigger capacity (maintaining the voltage) or  rechargeable – with a separate base to host the alimentation circuit.
+
+Moreover, fork tips approved for alimentary use (both material and production technology) could be produced for the device or other accessories developed to adapt different models of forks on the market and different needs.
+
+Developed for the Parkinson’s disease, La Buona Forchetta can be used by whoever experience difficulty in handling forks and tasting a plate of Spaghetti in peace!
+
 
 ## Presentation
 You can find and download the presentation in pdf of the project [here](presentation/Presentation.pdf). 
