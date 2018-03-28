@@ -138,6 +138,4 @@ Developed for the Parkinson’s disease, La Buona Forchetta can be used by whoev
 You can find and download the presentation in pdf of the project [here](presentation/Presentation.pdf). 
 
 ## License
-All the material is available under the terms of the CC BY-SA 4.0 license (Creative Commons Attribution-ShareAlike 4.0 
-
-International License). 
+All the material is available under the terms of the CC BY-NC-SA 3.0 (Creative Commons - Attribution - Non Commercial - Share Alike Licence).
